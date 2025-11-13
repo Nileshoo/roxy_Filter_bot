@@ -24,7 +24,7 @@ python-Levenshtein
 python-dotenv==0.21.1
 python-decouple
 humanize==4.6.0
-Pillow==9.4.0
+Pillow==9.5.0
 psutil==5.9.4
 ffmpeg-python>=0.2.0
 opencv-python-headless==4.7.0.68
@@ -41,3 +41,4 @@ speedtest-cli
 # System + Build Tools
 setuptools>=70.0.0
 wheel
+
